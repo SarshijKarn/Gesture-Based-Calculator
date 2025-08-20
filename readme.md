@@ -20,7 +20,11 @@ A touch-free calculator using real-time hand gesture recognition via your webcam
 ## Installation
 
 1. Make sure you have **Python 3.7+** and a webcam.
-2. Clone/download this repo.
+2. Clone/download this repo:
+   ```sh
+   git clone https://github.com/SarshijKarn/Gesture-Based-Calculator.git
+   ```
+   
 3. Install required packages:
    ```sh
    pip install -r requirements.txt
