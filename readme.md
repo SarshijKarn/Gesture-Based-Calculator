@@ -70,7 +70,7 @@ python gesture.py
 ---
 
 ## Credits
-- Designed and implemented by [Your Name Here].
+- Designed and implemented by Sarshij Karn.
 - Uses [MediaPipe](https://google.github.io/mediapipe/), [OpenCV](https://opencv.org/), and [pyttsx3](https://pyttsx3.readthedocs.io/).
 
 ---
