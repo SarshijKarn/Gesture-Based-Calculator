@@ -2,6 +2,9 @@
 
 A touch-free calculator using real-time hand gesture recognition via your webcam. Powered by MediaPipe, OpenCV, and pyttsx3, perform arithmetic using only your hands—with live spoken results and a modern overlay UI.
 
+![First](images/first.gif) ![Operator](images/operator.gif)
+![Second](images/second.gif) ![Result](images/result.gif)
+
 ---
 
 ## Features
